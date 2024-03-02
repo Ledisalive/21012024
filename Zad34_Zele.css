@@ -1,0 +1,9 @@
+.h3{
+    margin-left: 50%;
+    padding: 1em;
+    width: 400pt;
+    height: 3cm;
+    border: 2px grey double;
+    background-color: cornflowerblue;
+    font-size: 0.9rem;
+}
